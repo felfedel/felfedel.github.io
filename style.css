@@ -18,6 +18,7 @@ body {
 }
 
 .navbar {
+    font-size: xx-large;
     display: flex;
     overflow:hidden;
     height: 80px;
