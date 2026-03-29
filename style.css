@@ -18,7 +18,7 @@ body {
 }
 
 .navbar {
-    font-size: xx-large;
+    font-size: large;
     display: flex;
     overflow:hidden;
     height: 80px;
@@ -44,3 +44,8 @@ body {
     margin: 0;
     align-items: center;
 }
+
+.main_body {
+    text-align: center;
+}
+
