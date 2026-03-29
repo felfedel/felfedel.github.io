@@ -13,10 +13,6 @@ body {
     color: #E3BAC6;
 }
 
-#logo {
-    font-size: xx-large;
-}
-
 .navbar {
     font-size: large;
     display: flex;
@@ -46,6 +42,8 @@ body {
 }
 
 .main_body {
-    text-align: center;
+    margin-left: 25%;
+    margin-right: auto;
+    padding: 20px;
 }
 
