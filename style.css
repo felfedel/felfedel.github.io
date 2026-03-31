@@ -3,6 +3,10 @@ body {
     background-color: #BC9EC1;
 }
 
+#logo img {
+    padding-top: 5px;
+}
+
 .navbar a, a:visited, a:link, a:active {
     color: #1F2232;
     text-decoration: none;
@@ -11,6 +15,12 @@ body {
 
 .nav_ul a:hover {
     color: #E3BAC6;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+    left: 0px;
 }
 
 .navbar {
@@ -42,6 +52,7 @@ body {
 }
 
 .main_body {
+    margin-top: 5%;
     margin-left: 25%;
     margin-right: auto;
     padding: 20px;
